@@ -20,6 +20,9 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
+//comment made in compass1 project
+
+
 public class MainActivity extends AppCompatActivity implements SensorEventListener {
 
     ImageView imageView,direction;
